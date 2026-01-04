@@ -1,6 +1,5 @@
 # geo_gse133997_tbi_mirna
 
-# geo-gse133997-tbi-mirna
 Time-dependent changes of rmTBI microglial exosome miRNA analysis + miRNet targets (3d, 14d)
 
 ## Dataset
